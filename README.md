@@ -15,7 +15,7 @@ Il progetto consiste nell'analizzare in diversi ambiti un'impresa, che nel nostr
 La presentazione è composta da 5 capitoli:
 
     Presentazione dell'impresa. Una breve introduzione per capire l'ambito nel quale opera Atlantia S.p.A., seguita da una dettagliata analisi sulla sua storia.
-    Governance. Analisi sul governo societario; si approfondisce la struttura del gruppo, l'azionariato, le cariche sociale e l'organigramma interno. Infine si ha un       piccolo approfondimento sul rapporto con gli stakeholder e sulla loro gestione del tema sostenibilità.
+    Governance. Analisi sul governo societario; si approfondisce la struttura del gruppo, l'azionariato, le cariche sociale e l'organigramma interno. Infine si ha un           piccolo approfondimento sul rapporto con gli stakeholder e sulla loro gestione del tema sostenibilità.
     Analisi di bilancio. Analisi per indici, composta dalla riclassificazione del bilancio consolidato del gruppo e dall'analisi della redditività e finanziaria.
     Business Model. Analisi del Business Model Canvas del settore autostradale, con relativi approfondimenti per ogni sezione.
     Analisi dei ricavi e dei costi. Breve analisi per i ricavi del servizio autostradale, per poi passare all'analisi dei costi.
