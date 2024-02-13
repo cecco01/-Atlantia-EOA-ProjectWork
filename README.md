@@ -1,5 +1,5 @@
 # -Atlantia-EOA-ProjectWork
-Atlantia-Project-Work
+
 
 Project work per il corso da 6 CFU 'Economia e Organizzazione aziendale' della laurea in Ingegneria Informatica all'università di Pisa.
 MonkeyTech, il team:
