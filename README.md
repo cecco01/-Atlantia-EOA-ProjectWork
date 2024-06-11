@@ -24,11 +24,11 @@ La presentazione è composta da **5 capitoli**:
 Abbiamo deciso inizialmente di non suddividerci il lavoro in maniera _troppo_ netta, ma di lavorare insieme al progetto nella sua interezza. 
 Una piccola suddivisione però c'è stata: date le nostre diverse competenze nei diversi ambiti che dovevamo affrontare, ognuno di noi si è occupato di un aspetto del progetto, come la cura della documentazione oppure della grafica. 
 Più precisamente:
-- Io mi sono occupato della documentazione, visto che avevo già avuto esperienza con documentazioni di altri progetti.
-- Dario ha preso a cura il file excel dell'analisi di bilancio, dato il suo background di studi precedenti all'università.
-- Gianmaria ha lavorato sul design e della grafica della presentazione, data la mia passione per l'ambito della UX e UI.
+- Io mi sono occupato della documentazione, dato che avevo già avuto esperienza con documentazioni di altri progetti.
+- Dario ha preso a cura il file excel dell'analisi di bilancio, visto il suo background di studi precedenti all'università.
+- Gianmaria ha lavorato sul design e della grafica della presentazione, data la sua passione per l'ambito della UX e UI.
 
 ## Cosa ho appreso con il progetto
 
-Tramite questa esperienza ho appreso come avviene la ricerca dei dati e la loro analisi, scartando gli elementi superflui e non necessari, anche se interessanti. Lavorando in team ho fatto esperienza sul come coordinarsi tra colleghi, come risolvere problemi e anche confrontarsi sul lavoro svolto e da svolgere. 
-Penso che questo progetto mi abbia fatto capire come lavorare in vista della tesi futura, dall'analisi dei dati al rispetto delle tempistiche, anche durante la presentazione.
+Tramite questa esperienza ho appreso come avviene la ricerca dei dati e la loro analisi, scartando gli elementi superflui e non necessari, anche se interessanti. Lavorando in team ho fatto esperienza sul come coordinarsi tra colleghi, come risolvere problemi e sul confronto in merito al lavoro svolto. 
+Penso che tutto ciò mi abbia fatto capire come lavorare in vista del futuro, dall'analisi dei dati fino al rispetto delle tempistiche.
